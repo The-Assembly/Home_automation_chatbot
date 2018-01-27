@@ -20,7 +20,7 @@ The Flow diagram below provides as simple guide as to how we will be conducting 
 
 
 For the circuit diagram, use the image below as a guide.<br/>
-![chatbot_circuit_ Diagram](https://user-images.githubusercontent.com/32713072/35446659-dcfb9536-02ce-11e8-936b-d2365057543c.jpg)
+![chatbot_entire](https://user-images.githubusercontent.com/32713072/35469674-9dee239c-0353-11e8-94ea-4b9a2fe3ab54.jpg)
 
 ## Setting up a Telegram account 
 This API allows you to connect bots to our system. Telegram Bots are special accounts that do not require an additional phone number to set up. These accounts serve as an interface for code running somewhere on your server.
