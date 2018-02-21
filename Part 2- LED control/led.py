@@ -2,7 +2,6 @@
 import datetime
 from telepot.loop import MessageLoop
 import telepot, time
-import Adafruit_DHT
 import RPi.GPIO as GPIO
 
 GPIO.setmode(GPIO.BCM)
